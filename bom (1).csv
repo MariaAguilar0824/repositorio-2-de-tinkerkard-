@@ -1,0 +1,6 @@
+﻿Nombre,Cantidad,Componente
+"U1",1," Arduino Uno R3"
+"D1",1,"RCBG LED RGB"
+"S1, S2, S3",3," Pulsador"
+"R1, R2, R3",3,"220 Ω Resistencia"
+"R4, R5, R6",3,"10 kΩ Resistencia"
